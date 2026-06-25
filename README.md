@@ -57,6 +57,9 @@ Released under CC license.
 
 ## Author
 
-Francesco Barone 
+## Author
 
-GitHub: https://github.com/baronefr
+Sami Ullah Khan
+PhD Student, Department of Physics and Astronomy "G. Galilei"
+University of Padova & INFN Torino
+GitHub: https://github.com/sami12398987
